@@ -1,0 +1,46 @@
+canvas{
+    height: 400px;
+    width: 400px;
+}
+
+.canvas-container{
+    margin-bottom: 100px;
+}
+
+.prediction-area{
+    height: 415px;
+    width: 400px;
+}
+
+.prediction{
+    height: 320px;
+    width: 320px;
+    margin-left: 40px;
+    margin-bottom: 25px;
+    user-select: none;
+}
+
+.prediction-result{
+    font-size: 80px;
+    margin-top: 4rem;
+}
+
+.buttons{
+    height: 70px;
+    width: 320px;
+    margin-left: 40px;
+}
+
+.buttons > button{
+    width: 130px;
+}
+
+@media (max-width: 978px) {
+    .prediction-area{
+        margin-top: 2rem;
+        margin-bottom: 7rem;
+    }
+    .canvas-container{
+        margin-bottom: 10px;
+    }
+}   

@@ -1,0 +1,21 @@
+body{ 
+    min-height:100vh; 
+    margin:0; 
+    position:relative; 
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.dark-theme{
+    color:white !important;
+    background-color: #1b1b1b;
+    text-decoration: none;
+}
+
+.light{
+    color: #1b1b1b;
+    background-color: white;
+}
