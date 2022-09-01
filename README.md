@@ -1,6 +1,6 @@
 # AI_DRAW
 
-<img src="AI_DRAW.gif" alt="Project show-off animation" width="60%"/>
+<img src="AI_DRAW.gif" alt="Project show-off animation" width="80%"/>
 
 ## Description 
 
